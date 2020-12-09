@@ -1,6 +1,6 @@
 .body {
-  background-color: #e5e5e5;
-  color: #757575;
+  background-color: var(--main-bg-color);
+  color: var(--main-text-color);
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   line-height: 1.71;
